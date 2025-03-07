@@ -12,7 +12,7 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "MAH FAV SONGS", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/my8VBjjCPM",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
