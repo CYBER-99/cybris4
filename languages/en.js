@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Developed by Cyber | CYBRIS",
+    footer: "Developed by Cyber | CID",
     ping: {
       description: "Check the bot latency",
       response: "Pinging...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- Bot Response Time : **{latency}ms**",
         websocketPing: "- WebSocket Ping : **{ping}ms**",
         uptime: "- Uptime : **{uptime}**",
-        footer: "Developed by Cyber | CYBRIS"
+        footer: "Developed by Cyber | CID"
       }
     },
     addsong: {
