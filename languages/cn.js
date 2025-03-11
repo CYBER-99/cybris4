@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "由 Cyber 开发 | CYBRIS",
+    footer: "由 Cyber 开发 | CID",
     ping: {
       description: "检查机器人延迟",
       response: "正在测试延迟...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- 机器人响应时间：**{latency}毫秒**",
         websocketPing: "- WebSocket延迟：**{ping}毫秒**",
         uptime: "- 运行时间：**{uptime}**",
-        footer: "由 Cyber 开发 | CYBRIS"
+        footer: "由 Cyber 开发 | CID"
       }
     },
     addsong: {
