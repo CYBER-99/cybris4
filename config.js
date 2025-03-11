@@ -10,7 +10,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "MAH FAV SONGS", 
+  activityName: "I AM ATOMIC!", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/my8VBjjCPM",
   embedTimeout: 5, 
