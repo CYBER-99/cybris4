@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Cyber により開発 | CYBRIS",
+    footer: "Cyber により開発 | CID",
     ping: {
       description: "ボットの応答時間を確認",
       response: "応答時間を計測中...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- ボット応答時間：**{latency}ミリ秒**",
         websocketPing: "- WebSocket応答時間：**{ping}ミリ秒**",
         uptime: "- 稼働時間：**{uptime}**",
-        footer: "Cyber により開発 | CYBRIS"
+        footer: "Cyber により開発 | CID"
       }
     },
     addsong: {
